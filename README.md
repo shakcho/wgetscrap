@@ -11,7 +11,7 @@ your terminal
   
 it will download the content of the website in your Present working directory.
 -------
--To check your current working directory type "PWD" in your terminal)
+-To check your current working directory type "PWD" in your terminal.
 
 Disclaimer
 ----------
